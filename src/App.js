@@ -332,7 +332,7 @@ class App extends Component {
                 alt="timer"
                 className="timer-img"
               />
-              <p className="time">{time}</p>
+              <p className="time">{time} sec</p>
             </li>
           </ul>
         </nav>
